@@ -18,10 +18,10 @@ https://github.com/dalsantosev/Projet-5.git
 https://dalsantosev.github.io/Projet-5/
 
 
-# Langage:
+# Langages utilisés:
 
 - HTML5 / CSS3
-- javascript
+- Javascript
 
 # Auteur:
 
