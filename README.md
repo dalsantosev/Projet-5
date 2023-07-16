@@ -23,7 +23,7 @@ https://dalsantosev.github.io/Projet-5/
 - HTML5 / CSS3
 - javascript
 
-## Auteur:
+# Auteur:
 
 Séverine Dal Santo Allagui
 severinedalsanto@gmail.com
