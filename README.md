@@ -8,12 +8,12 @@ Création d'un carrousel (qui servira de bannière), avec des flèches (précéd
 Chaque image contiendra un texte different.
 
 
-# Lien GitHub:
+# Lien vers repo GitHub:
 
 https://github.com/dalsantosev/Projet-5.git
 
 
-# Lien GitHub Pages:
+# Lien vers page GitHub Pages du site:
 
 https://dalsantosev.github.io/Projet-5/
 
