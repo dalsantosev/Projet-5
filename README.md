@@ -1,23 +1,30 @@
-# Projet-5
+## Projet-5
 Projet 5 - Print it - Openclassrooms
+
 
 Mission : 
 
 Création d'un carrousel (qui servira de bannière), avec des flèches (précédent, et suivant) ainsi que des bullets points de navigation. La boucle doit être infinie.
 Chaque image contiendra un texte different.
 
+
 # Lien GitHub:
 
+https://github.com/dalsantosev/Projet-5.git
 
 
-## Lien GitHub Pages:
+# Lien GitHub Pages:
+
+https://dalsantosev.github.io/Projet-5/
 
 
-
-## Langage:
+# Langage:
 
 - HTML5 / CSS3
 - javascript
 
 ## Auteur:
+
 Séverine Dal Santo Allagui
+severinedalsanto@gmail.com
+
